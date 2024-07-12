@@ -22,5 +22,6 @@ namespace MVCApp
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
     }
 }

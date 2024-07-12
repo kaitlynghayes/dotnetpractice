@@ -3,11 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApp", "MVCApp\MVCApp.csproj", "{EADC4877-37B2-4264-9361-AC6D5CE153F1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{0AE81242-A1A0-4D4E-8B16-5335C764AD38}"
-EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MVCDemoDB", "MVCDemoDB\MVCDemoDB.sqlproj", "{F469DB0B-B6C0-43B2-802F-9B8D53753776}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCApp", "MVCApp\MVCApp.csproj", "{EADC4877-37B2-4264-9361-AC6D5CE153F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,16 +15,6 @@ Global
 		{EADC4877-37B2-4264-9361-AC6D5CE153F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EADC4877-37B2-4264-9361-AC6D5CE153F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EADC4877-37B2-4264-9361-AC6D5CE153F1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0AE81242-A1A0-4D4E-8B16-5335C764AD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0AE81242-A1A0-4D4E-8B16-5335C764AD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0AE81242-A1A0-4D4E-8B16-5335C764AD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0AE81242-A1A0-4D4E-8B16-5335C764AD38}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F469DB0B-B6C0-43B2-802F-9B8D53753776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F469DB0B-B6C0-43B2-802F-9B8D53753776}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F469DB0B-B6C0-43B2-802F-9B8D53753776}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{F469DB0B-B6C0-43B2-802F-9B8D53753776}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F469DB0B-B6C0-43B2-802F-9B8D53753776}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F469DB0B-B6C0-43B2-802F-9B8D53753776}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
